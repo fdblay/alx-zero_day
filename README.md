@@ -1,2 +1,2 @@
-My first readme
-collaboration: be up to date
+My first readme.
+collaboration: be up to date.
