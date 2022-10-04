@@ -1,1 +1,2 @@
-My new readme file
+My new readme file.
+Collaboration: be up to date.
